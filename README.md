@@ -22,7 +22,7 @@ O sistema foi estruturado seguindo os pilares da POO para garantir organização
 Abaixo, uma captura de tela do sistema em execução no terminal do VS Code:
 
 ![Demonstração do Sistema](./print.png)
-*(Substitua o caminho acima pelo nome do arquivo da sua imagem)*
+
 
 ## Estrutura de Arquivos
 * `Pessoa.java`: Classe base (Abstrata).
